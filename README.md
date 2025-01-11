@@ -10,10 +10,11 @@ The project files are organized as follows:
   - dimension_loads.sql: SQL scripts to load data into dimension tables.
   - fact_tables.sql: SQL scripts to create and load data into fact tables.
   - views.sql: SQL scripts to create secure views for business analysis and reporting.
--  /BI_System_Project_Resources/
+- /project_resources/
   - dimensional_model_schema.png: Schema diagram illustrating the data warehouse design.
   - tableau_visualization.twbx: Tableau workbook with the final dashboard.
-  - data/: Folder containing the raw data used for this project.
+- /raw_data/
+  - Contains multiple raw data files used in this project
 
 ## Tools & Technologies
 - Database: Snowflake
