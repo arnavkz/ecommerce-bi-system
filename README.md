@@ -1,7 +1,7 @@
 # IMT 577 Business Intelligence Systems - Final Project
 
 ## Project Overview
-This repository contains the final project for my Business Intelligence Systems course in the MSIM program at the University of Washington. The objective of this project was to design and develop a comprehensive BI system, including a data warehouse and a visualization layer that addresses key business questions (KBQs). The project involved architecting the data warehouse from scratch in Snowflake, implementing an ETL process in SQL, designing a dimensional data model, and creating dashboards to derive insights and support decision-making related to store performance, product sales, and target achievement
+This repository contains the final project for my Business Intelligence Systems course in the MSIM program at the University of Washington. The objective of this project was to design and develop a comprehensive BI system, including a data warehouse and a visualization layer that addresses key business questions (KBQs). The project involved architecting the data warehouse from scratch in Snowflake, implementing an ETL process in SQL, designing a dimensional data model, and creating dashboards to derive insights and support decision-making related to store performance, product sales, and target achievement.
 
 ## Project Structure
 The project files are organized as follows:
@@ -9,11 +9,11 @@ The project files are organized as follows:
   - staging_tables.sql: SQL scripts to create and populate staging tables.
   - dimension_loads.sql: SQL scripts to load data into dimension tables.
   - fact_tables.sql: SQL scripts to create and load data into fact tables.
-  - views.sql: SQL scripts to create secure views for business analysis and reporting
+  - views.sql: SQL scripts to create secure views for business analysis and reporting.
 -  /BI_System_Project_Resources/
-  - dimensional_model_schema.png: Schema diagram illustrating the data warehouse design
-  - tableau_visualization.twbx: Tableau workbook with the final dashboard
-  - data/: Folder containing the raw data used for this project
+  - dimensional_model_schema.png: Schema diagram illustrating the data warehouse design.
+  - tableau_visualization.twbx: Tableau workbook with the final dashboard.
+  - data/: Folder containing the raw data used for this project.
 
 ## Tools & Technologies
 - Database: Snowflake
@@ -25,7 +25,7 @@ The project files are organized as follows:
 ![schema diagram](project_resources/dimemsional_model_schema.png)
 
 ## Data Visualization
-The dashboard is hosted on Tableau Public [Link](https://public.tableau.com/app/profile/arnav.kulkarni/viz/IMT577_DW_ARNAV_KULKARNI_DASHBOARD_STORY/RetailStoreAnalysis) and can also be downloaded from the /project_resources/ folder
+The dashboard is hosted on Tableau Public ([Link](https://public.tableau.com/app/profile/arnav.kulkarni/viz/IMT577_DW_ARNAV_KULKARNI_DASHBOARD_STORY/RetailStoreAnalysis)) and can also be downloaded from the /project_resources/ folder.
 
 ## Key Business Questions Addressed
 1. Give an overall assessment of Stores number 10 and 21’s sales.  
