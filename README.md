@@ -11,15 +11,21 @@ The project files are organized as follows:
   - fact_tables.sql: SQL scripts to create and load data into fact tables.
   - views.sql: SQL scripts to create secure views for business analysis and reporting
 -  /BI_System_Project_Resources/
--    dimensional_model_schema.png: Schema diagram illustrating the data warehouse design
--    tableau_visualization.twbx: Tableau workbook with the final dashboard
--    data/: Folder containing the raw data used for this project
+  - dimensional_model_schema.png: Schema diagram illustrating the data warehouse design
+  - tableau_visualization.twbx: Tableau workbook with the final dashboard
+  - data/: Folder containing the raw data used for this project
 
 ## Tools & Technologies
 - Database: Snowflake
 - Data Modeling: Star Schema
 - ETL: SQL-based data transformation
-- Visualization: Tableau (Dashboard can be found here)
+- Visualization: Tableau
+
+## Schema Diagram
+
+
+## Data Visualization
+The dashboard is hosted on Tableau Public, the link for which can be found [here]([url](https://public.tableau.com/app/profile/arnav.kulkarni/viz/IMT577_DW_ARNAV_KULKARNI_DASHBOARD_STORY/RetailStoreAnalysis))
 
 ## Key Business Questions Addressed
 1. Give an overall assessment of Stores number 10 and 21’s sales.  
@@ -33,5 +39,5 @@ The project files are organized as follows:
 
 4. Should any new stores be opened? Include all stores in your analysis if necessary. If so, where? Why or why not?
 
-# Acknowledgments
+## Acknowledgments
 This project was completed as part of the Business Intelligence Systems course (IMT 577) in the MSIM program at the Information School, University of Washington. Special thanks to the course instructors and peers for their support and feedback.
