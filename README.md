@@ -22,7 +22,7 @@ The project files are organized as follows:
 - Visualization: Tableau
 
 ## Schema Diagram
-
+![schema diagram](project_resouces/dimensional_model_schema.png)
 
 ## Data Visualization
 The dashboard is hosted on Tableau Public, the link for which can be found [here]([url](https://public.tableau.com/app/profile/arnav.kulkarni/viz/IMT577_DW_ARNAV_KULKARNI_DASHBOARD_STORY/RetailStoreAnalysis))
