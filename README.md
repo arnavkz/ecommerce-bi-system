@@ -25,7 +25,7 @@ The project files are organized as follows:
 ![schema diagram](project_resources/dimemsional_model_schema.png)
 
 ## Data Visualization
-The dashboard is hosted on Tableau Public, the link for which can be found [here]([url](https://public.tableau.com/app/profile/arnav.kulkarni/viz/IMT577_DW_ARNAV_KULKARNI_DASHBOARD_STORY/RetailStoreAnalysis))
+The dashboard is hosted on Tableau Public [Link](https://public.tableau.com/app/profile/arnav.kulkarni/viz/IMT577_DW_ARNAV_KULKARNI_DASHBOARD_STORY/RetailStoreAnalysis) and can also be downloaded from the /project_resources/ folder
 
 ## Key Business Questions Addressed
 1. Give an overall assessment of Stores number 10 and 21’s sales.  
